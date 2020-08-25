@@ -2,7 +2,7 @@
 Demo to use Github
 
 ## Section 1
-**I am bold **
+*I am not bold *
 *I am italic*
 
 [Visit JobShine](https://www.jobshine.sg)
